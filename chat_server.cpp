@@ -10,7 +10,6 @@
 #pragma comment(lib, "ws2_32.lib")
 
 using namespace std;
-
 // =======================================================
 // MODULE 1: INDIVIDUAL CHAT USER STRUCT REFERENCE
 // =======================================================
